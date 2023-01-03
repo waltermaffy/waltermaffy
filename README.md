@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Computer Vision AI software
-- 🌱 I’m currently learning LN, Go, Rust
-- 🧑‍💻 I’m looking to collaborate on satoshi based P2P social applications
-- 🤔 I’m looking for help with Bitcoin jobs 
+- 🔭 I’m currently working on AI software and MLOps
+- 🌱 I’m currently learning Rust and Go
+- 🧑‍💻 I’m looking to collaborate on Lightning Network apps
 - 💬 Ask me about Bitcoin
 - 📫 How to reach me: https://twitter.com/wmaffy 
 - ⚡ Lightning Address: [wallyyy@ln.tips](wallyyy@ln.tips)
